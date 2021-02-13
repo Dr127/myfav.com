@@ -1,1 +1,1 @@
-# myfav.com
+# myfav
